@@ -1,6 +1,6 @@
 # let 和 const 命令
 
-1. let 和 var 的区别
+## 1. let 和 var 的区别
 
 var:
 
